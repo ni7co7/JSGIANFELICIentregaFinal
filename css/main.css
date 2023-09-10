@@ -128,7 +128,7 @@ footer {
   }
 }
 .contenedor-hero {
-  background-image: url(/img/logoblur.png);
+  /* background-image: url(/img/logoblur.png); */
   background-size: 5%;
   position: relative;
   width: 100%;
